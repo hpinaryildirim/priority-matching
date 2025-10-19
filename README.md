@@ -7,4 +7,4 @@
 3_simulation_results.ipynb -> Notebook to aggregate simulation results and get the strategy comparisons.
 
 
-price_of_priority_2025.ipynb -> Notebook to generate the data, run experiments and analyze the experiment results of the price of priority analysis. Output directories for the experiment data (data_save_loc, source_folder) and the experiment results (outdir) should be specified. 
+price_of_priority_2025.ipynb -> Notebook to generate the data, run experiments and analyze the experiment results of the price of priority analysis. Output directories for the experiment data (data_save_loc, source_folder) and the experiment results (outdir) should be specified. Our experiment data is in the folder price_of_priority_experiment_data_2025.zip and results are in the folder price_of_priority_results_2025.zip.
